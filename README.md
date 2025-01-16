@@ -1,17 +1,17 @@
 # Inventory-Gun
 RFID Based Inventory Management System
 
-# Introductions
+## Introductions
 
-# Use Cases
+## Use Cases
 
-# Objectives
+## Objectives
 
-# Scope
+## Scope
 
-# List of Features
+## List of Features
 
-# Learning Goals
+## Learning Goals
 
-# WorkingDiagramLink
+## WorkingDiagramLink
 https://docs.google.com/presentation/d/1_VOhCUovjsJggUFzT2LXmSE2EXVP7gkfxeS12fmgxC8/edit?usp=sharing
