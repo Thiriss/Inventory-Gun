@@ -16,6 +16,9 @@ For this project, we are simulating a clothing store equipped with RFID technolo
 - To integrate IoT technology for seamless data transfer and cloud-based processing.
 - To offer a cost-effective solution for small and medium-sized businesses seeking to optimize their inventory management processes.
 
+## System Working Flow
+![Image](https://github.com/user-attachments/assets/8027eab3-f732-422c-aecd-11e6e770677a)
+
 ## List of Features
 - Real-Time Inventory Tracking: Automatic identification and tracking of items using RFID tags.
 - Search and Locate Items based on zone : Quickly locate items using RFID scans or search functionality.
