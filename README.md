@@ -27,3 +27,7 @@ For this project, we are simulating a clothing store equipped with RFID technolo
 - Integration with User Interface: Web-based dashboard to monitor inventory in real-time.
 
 ## Learning Goals
+- To understand and implement RFID technology with IoT concepts.
+- To learn to integrate hardware (RFID reader) with software systems.
+- To gain experience in designing a user-friendly web interface.
+- To understand real-time data processing and reporting for inventory systems.
