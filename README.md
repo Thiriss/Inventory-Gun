@@ -3,7 +3,7 @@ RFID Based Inventory Management System
 
 ## Introductions
 Radio Frequency Identification (RFID) is a technology that uses electromagnetic fields to identify and track objects via tags. Unlike traditional barcodes, RFID does not require direct line-of-sight and can process multiple items simultaneously, making it highly efficient.
-RFID has been widely implemented in various industries such as retail, healthcare, and logistics. It is used for inventory tracking, patient identification, and electronic toll systems, among others. The adoption of long-range high-frequency RFID systems operating at 13.56 MHz enables tracking over significant distances, making them ideal for real-time inventory management.
+RFID has been widely implemented in various industries such as retail, healthcare, and logistics. It is used for inventory tracking, patient identification, and electronic toll systems, among others. The adoption of long-range high-frequency RFID systems enables tracking over significant distances, making them ideal for real-time inventory management.
 This project develops a cost-effective inventory management system using an Impinj RFID reader. By integrating IoT technology, the system automates item tracking and monitoring. A web-based interface built with Laravel and MySQL allows users to manage inventory and generate reports efficiently.
 
 ## Use Cases
@@ -17,13 +17,21 @@ For this project, we are simulating a clothing store equipped with RFID technolo
 - To integrate IoT technology for seamless data transfer and cloud-based processing.
 - To offer a cost-effective solution for small and medium-sized businesses seeking to optimize their inventory management processes.
 
+## Requirements
+Hardware: Impinj r420  RFID reader, patch antennas, RFID tags
+Software: Python,Laravel and MYSQL
+
+## Scope
+- The device contains RF-ID Reader and patch-type antennas with a web-based user interface for the owner to utilize the data.
+- This system is using zone-based location tracking rather than precise location of the object.
+
 ## System Working Flow
 ![Image](https://github.com/user-attachments/assets/8027eab3-f732-422c-aecd-11e6e770677a)
 
 ## List of Features
 - Real-Time Inventory Tracking: Automatic identification and tracking of items using RFID tags.
 - Search and Locate Items based on zone : Quickly locate items using RFID scans or search functionality.
-- Inventory Reporting: Generate reports on stock levels, item history, and usage trends.
+- Inventory Reporting: Generate reports on stock levels and usage trends.
 - Integration with User Interface: Web-based dashboard to monitor inventory in real-time.
 
 ## Learning Goals
