@@ -45,10 +45,10 @@ Software: Python,Laravel and MYSQL
 | 	Week	 | 	Activities	 | 	
 | 	:---:	 | 	:-----:	 | 
 | 	Week-1	| 	Team Construction & Deciding Topic	| 	
-| 	Week-2	| 	Value2	| 	
-| 	Week-3	| 	Value2	| 
+| 	Week-2	| 	"Brainstorming project idea, Defining the system working flow"	| 	
+| 	Week-3	| 	Fixing use cases, posting on github	| 
 | 	Week-4	| 	Value2	| 	
-| 	Week-5	| 	Value2	|
+| 	Week-5	| 	Preparing proposal presentation	|
 | 	Week-6	| 	Value2	|
 | 	Week-7	| 	Value2	| 	
 | 	Week-8	| 	Value2	| 
