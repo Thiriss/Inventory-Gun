@@ -40,3 +40,12 @@ Software: Python,Laravel and MYSQL
 - To learn to integrate hardware (RFID reader) with software systems.
 - To gain experience in designing a user-friendly web interface.
 - To understand real-time data processing and reporting for inventory systems.
+
+## Weekly Update 
+| 	Week	 | 	Activities	 | 	
+| 	:---:	 | 	:-----:	 | 
+| 	Week-1	| 	Team Construction & Deciding Topic	| 	
+| 	Week-2	| 	Value2	| 	
+| 	Week-3	| 	Value2	| 
+| 	Week-4	| 	Value2	| 	
+| 	Week-5	| 	Value2	| 	
