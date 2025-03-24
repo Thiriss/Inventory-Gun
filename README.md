@@ -48,4 +48,14 @@ Software: Python,Laravel and MYSQL
 | 	Week-2	| 	Value2	| 	
 | 	Week-3	| 	Value2	| 
 | 	Week-4	| 	Value2	| 	
-| 	Week-5	| 	Value2	| 	
+| 	Week-5	| 	Value2	|
+| 	Week-6	| 	Value2	|
+| 	Week-7	| 	Value2	| 	
+| 	Week-8	| 	Value2	| 
+| 	Week-9	| 	Value2	| 	
+| 	Week-10	| 	Value2	|
+| 	Week-11	| 	Value2	|
+| 	Week-12	| 	Value2	| 
+| 	Week-13	| 	Value2	| 	
+| 	Week-14	| 	Value2	|
+| 	Week-15	| 	Value2	|
