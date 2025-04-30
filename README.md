@@ -20,11 +20,11 @@ To support real-time inventory tracking, we designed a custom antenna suited for
 - To offer a cost-effective solution for small and medium-sized businesses seeking to optimize their inventory management processes.
 
 ## Requirements
-Hardware: Impinj r420  RFID reader, patch antennas, RFID tags
+Hardware: Impinj r420  RFID reader, Circularly polarized antenna, RFID tags.
 Software: Python,Laravel and MYSQL
 
 ## Scope
-- The device contains RF-ID Reader and patch-type antennas with a web-based user interface for the owner to utilize the data.
+- The device contains RF-ID Reader and Patch antennas with a web-based user interface for the owner to utilize the data.
 - This system is using zone-based location tracking rather than precise location of the object.
 
 ## System Working Flow
@@ -39,6 +39,7 @@ Software: Python,Laravel and MYSQL
 ## Learning Goals
 - To understand and implement RFID technology with IoT concepts.
 - To learn to integrate hardware (RFID reader) with software systems.
+- To gain experience in designing and testing custom antenna for optimized RFID performance.
 - To gain experience in designing a user-friendly web interface.
 - To understand real-time data processing and reporting for inventory systems.
 
