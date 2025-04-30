@@ -7,7 +7,8 @@ RFID has been widely implemented in various industries such as retail, healthcar
 This project develops a cost-effective inventory management system using an Impinj RFID reader. By integrating IoT technology, the system automates item tracking and monitoring. A web-based interface built with Laravel and MySQL allows users to manage inventory and generate reports efficiently.
 
 ## Use Cases
-For this project, we are simulating a clothing store equipped with RFID technology that can automate inventory tracking by dividing the store into zones such as "Entrance," "Men’s Clothing," "Women’s Clothing," and "Fitting Room." RFID antenna readers placed in each zone track item movement and send real-time data to the cloud, enabling staff to monitor item locations through a web interface. To optimize the system, we are conducting studies using Antenna Magus to evaluate antenna patterns and select the design that provides the best performance for the intended zones. The chosen antenna design will ensure robust coverage and accurate tracking across all designated areas.These features make it a perfect choice for our inventory tracking system.
+For this project, we are simulating a clothing store equipped with RFID technology that can automate inventory tracking by dividing the store into zones such as "Entrance," "Men’s Clothing," "Women’s Clothing," and "Fitting Room." RFID antenna readers placed in each zone track item movement and send real-time data to the cloud, enabling staff to monitor item locations through a web interface.
+To support real-time inventory tracking, we designed a custom antenna suited for RFID-based zone detection. After evaluating various antenna types using Antenna Magus, we selected and modeled a truncated patch antenna in CST Studio. The design demonstrated circular polarization, which is essential for maintaining reliable tag detection regardless of orientation. It achieved a strong axial ratio (~2.1), good gain, and effective impedance matching. These features make it highly suitable for tracking items across all designated areas, ensuring robust coverage, accurate detection, and seamless integration into our inventory management system.
  
 
 
@@ -42,20 +43,89 @@ Software: Python,Laravel and MYSQL
 - To understand real-time data processing and reporting for inventory systems.
 
 ## Weekly Update 
-| 	Week	 | 	Activities	 | 	
-| 	:---:	 | 	:-----:	 | 
-| 	Week-1	| 	Team Construction & Deciding Topic	| 	
-| 	Week-2	| 	Brainstorming project idea, Defining the system working flow	| 	
-| 	Week-3	| 	Fixing use cases, posting on github	| 
-| 	Week-4	| 	Value2	| 	
-| 	Week-5	| 	Preparing proposal presentation	|
-| 	Week-6	| 	Value2	|
-| 	Week-7	| 	Value2	| 	
-| 	Week-8	| 	Value2	| 
-| 	Week-9	| 	Value2	| 	
-| 	Week-10	| 	Value2	|
-| 	Week-11	| 	Value2	|
-| 	Week-12	| 	Value2	| 
-| 	Week-13	| 	Value2	| 	
-| 	Week-14	| 	Value2	|
-| 	Week-15	| 	Value2	|
+**Week-1** 
+ 1/6/2025
+- Team formation and role distribution  
+- Discussed initial direction of the project
+
+**Week-2**
+ 1/13/2025
+- Brainstormed project ideas and defined system flow  
+- Started documenting use cases and objectives
+
+**Week-3**
+ 1/20/2025
+- Posted on GitHub  
+- Studied various antenna types suitable for RFID  
+- Selected tools for simulation and design
+
+**Week-4**
+ 1/27/2025
+- Finalized Truncated Patch Antenna as the best fit  
+- Began initial antenna modeling in CST
+
+**Week-5**
+ 2/3/2025
+- Continued CST modeling and simulations  
+- Began research on RFID reader integration
+
+**Week-6**
+ 2/10/2025
+- **Proposal Presentation delivered**
+   
+**Week-7**
+ 2/17/2025
+- Faced low gain and efficiency problems in the antenna
+- Researched APIs for cloud interaction  
+- Started setting up Impinj RFID reader
+- Tested reader–software connection
+
+**Week-8**
+ 2/24/2025
+- Solved gain and efficiency issues by adjusting antenna parameters  
+- Started developing cloud database
+
+**Week-9**
+ 3/3/2025
+- Focused on achieving circular polarization  
+- Continued reader integration  
+- Built initial database structure
+
+**Week-10**
+ 3/10/2025
+- Achieved circular polarization but faced high AR (>3 dB)  
+- Connected cloud to the database  
+- Improved link stability
+
+**Week-11**
+ 3/17/2025
+- Optimized antenna design and achieved AR = 2.1  
+- Started building user interface
+
+**Week-12**
+  3/24/2025
+- Found narrow bandwidth – antenna is sensitive to tolerance  
+- Continued database reprogramming for use-case fit
+
+**Week-13**
+  3/31/2025
+- Sent antenna design for fabrication  
+- UI and RFID data testing in progress
+
+**Week-14**
+  4/7/2025
+- Fabrication completed  
+- System integration setup
+
+**Week-15**
+  4/14/2025
+- First round of antenna testing  
+- End-to-end system test with cloud and reader
+
+**Week-16**
+  4/21/2025
+- Completed performance testing  
+- Verified complete IoT pipeline
+
+
+
