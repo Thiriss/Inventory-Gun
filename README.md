@@ -49,82 +49,73 @@ Software: Python,Laravel and MYSQL
 - Discussed initial direction of the project
 
 **Week-2**
- 1/13/2025
-- Brainstormed project ideas and defined system flow  
-- Started documenting use cases and objectives
-
-**Week-3**
  1/20/2025
 - Posted on GitHub  
 - Studied various antenna types suitable for RFID  
 - Selected tools for simulation and design
 
-**Week-4**
+**Week-3**
  1/27/2025
 - Finalized Truncated Patch Antenna as the best fit  
 - Began initial antenna modeling in CST
 
-**Week-5**
- 2/3/2025
-- Continued CST modeling and simulations  
-- Began research on RFID reader integration
-
-**Week-6**
+**Week-4**
  2/10/2025
 - **Proposal Presentation delivered**
    
-**Week-7**
+**Week-5**
  2/17/2025
-- Faced low gain and efficiency problems in the antenna
+- Faced High S11 value problem in the antenna
+- ![image](https://github.com/user-attachments/assets/15a99e80-942e-489e-abbe-a53b5625f6b3)
+
 - Researched APIs for cloud interaction  
 - Started setting up Impinj RFID reader
 - Tested reader–software connection
 
-**Week-8**
+**Week-6**
  2/24/2025
-- Solved gain and efficiency issues by adjusting antenna parameters  
+- Solved S11 issues by adjusting antenna parameters
+- Focused on achieving circular polarization 
 - Started developing cloud database
-
-**Week-9**
- 3/3/2025
-- Focused on achieving circular polarization  
 - Continued reader integration  
 - Built initial database structure
 
-**Week-10**
+**Week-7**
  3/10/2025
-- Achieved circular polarization but faced high AR (>3 dB)  
+- Achieved circular polarization but faced high AR (>3 dB)
+-  ![ARthetaPhi](https://github.com/user-attachments/assets/5904ffe2-3bd4-4c70-8e72-655f11fe25e3)
 - Connected cloud to the database  
-- Improved link stability
 
-**Week-11**
+**Week-8**
  3/17/2025
 - Optimized antenna design and achieved AR = 2.1  
 - Started building user interface
 
-**Week-12**
+**Week-9**
   3/24/2025
 - Found narrow bandwidth – antenna is sensitive to tolerance  
 - Continued database reprogramming for use-case fit
 
-**Week-13**
+**Week-10**
   3/31/2025
 - Sent antenna design for fabrication  
 - UI and RFID data testing in progress
 
-**Week-14**
+**Week-11**
   4/7/2025
-- Fabrication completed  
+- Fabrication completed
+- ![IMG20250403154350](https://github.com/user-attachments/assets/03510e1e-b4ba-41c9-89c3-68c8e7a1b5ee)
+![IMG20250403154342](https://github.com/user-attachments/assets/d6223944-eaff-4a4d-b179-d6b9df799d3f)
+![WhatsApp Image 2025-04-06 at 02 42 03_cea164de](https://github.com/user-attachments/assets/6da8ee50-af40-44b0-931e-6eb734eb9753)
 - System integration setup
 
-**Week-15**
-  4/14/2025
-- First round of antenna testing  
+**Week-12**
+  4/14/2025 
 - End-to-end system test with cloud and reader
+- Antenna testing completed
 
-**Week-16**
+**Week-13**
   4/21/2025
-- Completed performance testing  
 - Verified complete IoT pipeline
 
 
