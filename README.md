@@ -67,7 +67,7 @@ Software: Python,Laravel and MYSQL
    
 **Week-5**
  2/17/2025
-- Faced High S11 value problem in the antenna
+- Faced High S11 value problem in the antenna ( shoud be less than at least -10 dB)
 - ![image](https://github.com/user-attachments/assets/15a99e80-942e-489e-abbe-a53b5625f6b3)
 
 - Researched APIs for cloud interaction  
@@ -76,9 +76,9 @@ Software: Python,Laravel and MYSQL
 
 **Week-6**
  2/24/2025
-- Solved S11 issues by adjusting antenna parameters
+- Solved S11 issues by adjusting antenna parameters (-32 dB, -14 dB)
 - ![image](https://github.com/user-attachments/assets/0454e1c6-2dd3-4d2d-87f3-7b29aaabc14e)
-- Focused on achieving circular polarization 
+- facing problem on achieving circular polarization 
 - Started developing cloud database
 - Continued reader integration  
 - Built initial database structure
@@ -88,17 +88,18 @@ Software: Python,Laravel and MYSQL
 - Achieved circular polarization but faced high AR (>3 dB)
 -  ![ARthetaPhi](https://github.com/user-attachments/assets/5904ffe2-3bd4-4c70-8e72-655f11fe25e3)
 -  ![image](https://github.com/user-attachments/assets/ac2d1313-7095-45bd-a8da-2818ed124705)
-
 - Connected cloud to the database  
 
 **Week-8**
  3/17/2025
-- Optimized antenna design and achieved AR = 2.1  
+- Optimized antenna design and achieved AR = 2.1
+![image](https://github.com/user-attachments/assets/d66acfc5-d1e6-4ad2-a856-50bfea81a6e6)
 - Started building user interface
 
 **Week-9**
   3/24/2025
-- Found narrow bandwidth – antenna is sensitive to tolerance  
+- Found narrow bandwidth – antenna is sensitive to tolerance
+  ![image](https://github.com/user-attachments/assets/f9271082-8182-4960-ab4d-5f6c4cb0b28b)
 - Continued database reprogramming for use-case fit
 
 **Week-10**
