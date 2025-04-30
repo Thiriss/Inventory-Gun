@@ -44,28 +44,18 @@ Software: Python,Laravel and MYSQL
 
 ## Weekly Update 
 **Week-1** 
- 1/6/2025
-- Team formation and role distribution  
-- Discussed initial direction of the project
-
-**Week-2**
- 1/20/2025
-- Posted on GitHub  
-- Studied various antenna types suitable for RFID  
-- Selected tools for simulation and design
-
-**Week-3**
  1/27/2025
-- Finalized Truncated Patch Antenna as the best fit  
+- Discussed initial direction of the project
+- Posted on GitHub  
+- Studied various antenna types suitable for RFID and Finalized Truncated Patch Antenna as the best fit  
 - Began initial antenna modeling in CST
 - ![sketches (1)](https://github.com/user-attachments/assets/c3532035-8ee2-40de-9180-7f3a9fdc7e1c)
 
-
-**Week-4**
+**Week-2**
  2/10/2025
 - **Proposal Presentation delivered**
    
-**Week-5**
+**Week-3**
  2/17/2025
 - Faced High S11 value problem in the antenna ( shoud be less than at least -10 dB)
 - ![image](https://github.com/user-attachments/assets/15a99e80-942e-489e-abbe-a53b5625f6b3)
@@ -74,7 +64,7 @@ Software: Python,Laravel and MYSQL
 - Started setting up Impinj RFID reader
 - Tested reader–software connection
 
-**Week-6**
+**Week-4**
  2/24/2025
 - Solved S11 issues by adjusting antenna parameters (-32 dB, -14 dB)
 - ![image](https://github.com/user-attachments/assets/0454e1c6-2dd3-4d2d-87f3-7b29aaabc14e)
@@ -83,31 +73,31 @@ Software: Python,Laravel and MYSQL
 - Continued reader integration  
 - Built initial database structure
 
-**Week-7**
+**Week-5**
  3/10/2025
 - Achieved circular polarization but faced high AR (>3 dB)
 -  ![ARthetaPhi](https://github.com/user-attachments/assets/5904ffe2-3bd4-4c70-8e72-655f11fe25e3)
 -  ![image](https://github.com/user-attachments/assets/ac2d1313-7095-45bd-a8da-2818ed124705)
 - Connected cloud to the database  
 
-**Week-8**
+**Week-6**
  3/17/2025
 - Optimized antenna design and achieved AR = 2.1
 ![image](https://github.com/user-attachments/assets/d66acfc5-d1e6-4ad2-a856-50bfea81a6e6)
 - Started building user interface
 
-**Week-9**
+**Week-7**
   3/24/2025
 - Found narrow bandwidth – antenna is sensitive to tolerance
   ![image](https://github.com/user-attachments/assets/f9271082-8182-4960-ab4d-5f6c4cb0b28b)
 - Continued database reprogramming for use-case fit
 
-**Week-10**
+**Week-8**
   3/31/2025
 - Sent antenna design for fabrication  
 - UI and RFID data testing in progress
 
-**Week-11**
+**Week-9**
   4/7/2025
 - Fabrication completed
 - ![IMG20250403154350](https://github.com/user-attachments/assets/03510e1e-b4ba-41c9-89c3-68c8e7a1b5ee)
@@ -115,13 +105,10 @@ Software: Python,Laravel and MYSQL
 ![WhatsApp Image 2025-04-06 at 02 42 03_cea164de](https://github.com/user-attachments/assets/6da8ee50-af40-44b0-931e-6eb734eb9753)
 - System integration setup
 
-**Week-12**
-  4/14/2025 
+**Week-10**
+  4/21/2025
 - End-to-end system test with cloud and reader
 - Antenna testing completed
-
-**Week-13**
-  4/21/2025
 - Verified complete IoT pipeline
 
 
