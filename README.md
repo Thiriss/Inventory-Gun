@@ -58,6 +58,8 @@ Software: Python,Laravel and MYSQL
  1/27/2025
 - Finalized Truncated Patch Antenna as the best fit  
 - Began initial antenna modeling in CST
+- ![sketches (1)](https://github.com/user-attachments/assets/c3532035-8ee2-40de-9180-7f3a9fdc7e1c)
+
 
 **Week-4**
  2/10/2025
@@ -75,6 +77,7 @@ Software: Python,Laravel and MYSQL
 **Week-6**
  2/24/2025
 - Solved S11 issues by adjusting antenna parameters
+- ![image](https://github.com/user-attachments/assets/0454e1c6-2dd3-4d2d-87f3-7b29aaabc14e)
 - Focused on achieving circular polarization 
 - Started developing cloud database
 - Continued reader integration  
@@ -84,6 +87,8 @@ Software: Python,Laravel and MYSQL
  3/10/2025
 - Achieved circular polarization but faced high AR (>3 dB)
 -  ![ARthetaPhi](https://github.com/user-attachments/assets/5904ffe2-3bd4-4c70-8e72-655f11fe25e3)
+-  ![image](https://github.com/user-attachments/assets/ac2d1313-7095-45bd-a8da-2818ed124705)
+
 - Connected cloud to the database  
 
 **Week-8**
