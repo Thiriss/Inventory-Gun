@@ -28,7 +28,7 @@ Software: Python,Laravel and MYSQL
 - This system is using zone-based location tracking rather than precise location of the object.
 
 ## System Working Flow
-![Image](https://github.com/user-attachments/assets/15448d56-50b2-4863-a1f1-1e8e22d92ae8)
+![Image](https://github.com/user-attachments/assets/0e1d9113-97d8-4f7b-a413-87c3392a02cc)
 
 ## List of Features
 - Real-Time Inventory Tracking: Automatic identification and tracking of items using RFID tags.
