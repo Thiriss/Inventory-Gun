@@ -47,7 +47,7 @@ Software: Python,Laravel and MYSQL
 - **General Works**: Defined the use cases, objectives, and features of the project. Also focused on learning the basics of the system to determine the system that we will use and ensure a solid foundation for the upcoming stages of development. The GitHub repository was prepared for structured reporting and documentation to track progress.
 - **Communication**: Tried to operate the RFID Reader to better understand how the RFID system works, gaining hands-on experience in the process.
 
-- **Software Development**: Conducted research on suitable software solutions for the user interface, ensuring that the system can be effectively utilized by users for easy interaction and inventory management.
+- **Software Development**: Conducted research on suitable software solutions for the user interface, ensuring that the system can be effectively utilized by users for easy interaction and inventory management., Created project repository, Built login and registration pages
 - **Hardware Development**: Studied various antenna types suitable for RFID applications. After evaluating their characteristics, the Truncated Patch Antenna was selected as the most suitable option due to its performance and compatibility with the project's requirements. Following this decision, the initial hardware development began in CST Studio.
   
   <img src="https://github.com/user-attachments/assets/c3532035-8ee2-40de-9180-7f3a9fdc7e1c" width="600" />
@@ -56,13 +56,13 @@ Software: Python,Laravel and MYSQL
  10/02/2025
 - **General Works**: Prepared the proposal presentation, outlining the project's goals, objectives, and approach.
 - **Communication** : Focused on preparing to determine the most suitable communication protocol for the RFID system, ensuring seamless data transmission.
-- **Software Development**: Continued research on suitable software solutions for the user interface, ensuring that the system can be effectively utilized by users for easy interaction and inventory management.
+- **Software Development**: Researched how to connect Laravel to MQTT broker, Set up the MQTT connection system.
 - **Hardware Development** : Continued simulating and designing the antenna, refining the model to meet the project's requirements.
    
 ### **Week-3**
  17/02/2025
 - **Communication**: Defining the right communication line and protocol, considered using the MQTT protocol, which was recently learned in the workshop.
-- **Software Development**: Conducted research on APIs for cloud interaction, focusing on how the system can effectively integrate with the cloud for real-time data processing.
+- **Software Development**: Researched real-time data display on dashboard, Designed Database Schema.
 - **Hardware Development**: Encountered an issue with the antenna, facing a high S11 value. The S11 value should be at least below -10 dB, and efforts are ongoing to address this problem.
  
   <img src="https://github.com/user-attachments/assets/15a99e80-942e-489e-abbe-a53b5625f6b3" width="600" />
@@ -70,7 +70,7 @@ Software: Python,Laravel and MYSQL
 ### **Week-4**
  24/02/2025
 - **Communication**: Focused on sending data directly from the RFID Reader to the cloud using the API, aiming for seamless data transfer.
-- **Software Development**: Worked on bridging the API communication from the RFID Reader to the local server.
+- **Software Development**: Developed product list page, Created API to receive and save incoming data from MQTT.
 - **Hardware Development**: Solved the S11 issues by adjusting antenna parameters, achieving values of -32 dB and -14 dB. However, there are still challenges in achieving circular polarization for the antenna.
 
   <img src="https://github.com/user-attachments/assets/0454e1c6-2dd3-4d2d-87f3-7b29aaabc14e" width="600" />
