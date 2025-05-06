@@ -61,7 +61,7 @@ Software: Python,Laravel and MYSQL
    
 ### **Week-3**
  17/02/2025
-- **Communication**: Considered using the MQTT protocol, which was recently learned in the workshop, and worked on writing Python code to establish communication with the RFID Reader.
+- **Communication**: Defining the right communication line and protocol, considered using the MQTT protocol, which was recently learned in the workshop.
 - **Software Development**: Conducted research on APIs for cloud interaction, focusing on how the system can effectively integrate with the cloud for real-time data processing.
 - **Hardware Development**: Encountered an issue with the antenna, facing a high S11 value. The S11 value should be at least below -10 dB, and efforts are ongoing to address this problem.
  
@@ -69,32 +69,36 @@ Software: Python,Laravel and MYSQL
   
 ### **Week-4**
  24/02/2025
-- Solved S11 issues by adjusting antenna parameters (-32 dB, -14 dB)
+- **Communication**: Focused on sending data directly from the RFID Reader to the cloud using the API, aiming for seamless data transfer.
+- **Software Development**: Worked on bridging the API communication from the RFID Reader to the local server.
+- **Hardware Development**: Solved the S11 issues by adjusting antenna parameters, achieving values of -32 dB and -14 dB. However, there are still challenges in achieving circular polarization for the antenna.
 
   <img src="https://github.com/user-attachments/assets/0454e1c6-2dd3-4d2d-87f3-7b29aaabc14e" width="600" />
 
-- facing problem on achieving circular polarization 
-- Started developing cloud database
-- Continued reader integration  
-- Built initial database structure
-
 ### **Week-5**
  10/03/2025
-- Achieved circular polarization but faced high AR (>3 dB)
+- **Communication**: Realized that sending data directly from the RFID Reader is not feasible due to subscription limitations. Considering an alternative approach to grab the data directly using Python, and consulting with experts to better understand how the reader works.
+  
+- **Software Development**: Building the framework for the user interface using Laravel, which involves setting up the database and utilizing the interface to enable better user interaction.
+
+- **Hardware Development**: Successfully achieved circular polarization, but facing an issue with a high axial ratio (AR > 3 dB), which needs to be addressed.
 
     <img src="https://github.com/user-attachments/assets/5904ffe2-3bd4-4c70-8e72-655f11fe25e3" width="600" />
 
     <img src="https://github.com/user-attachments/assets/ac2d1313-7095-45bd-a8da-2818ed124705" width="600" />
-    
-- Connected cloud to the database  
+  
 
 ### **Week-6**
  17/03/2025
-- Optimized antenna design and achieved AR = 2.1
+
+- **Communication**: Focused on writing Python code to grab data from the RFID Reader and working on controlling the data rate coming from the reader to optimize performance.
+
+- **Software Development**: Continued developing the user interface, making progress toward completing a functional and user-friendly interface.
+
+- **Hardware Development**: Optimized the antenna design, achieving a more favorable axial ratio (AR) of 2.1, improving performance.
 
   <img src="https://github.com/user-attachments/assets/d66acfc5-d1e6-4ad2-a856-50bfea81a6e6" width="600" />
 
-- Started building user interface
 
 ### **Week-7**
   24/03/2025
