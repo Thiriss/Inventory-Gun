@@ -101,23 +101,31 @@ Software: Python,Laravel and MYSQL
 
 ### **Week-7**
   24/03/2025
-- Found narrow bandwidth – antenna is sensitive to tolerance
+
+- **Communication**: Adjusted the Python code to collect additional data, such as the source of the antenna and RSSI numbers, to improve the ability to locate the signal's origin.
+
+- **Software Development**: Researched further on real-time data display, Successfully used WebSockets with Blade, Implemented real-time dashboard, Conducted testing and debugging
+
+- **Hardware Development**: Identified a narrow bandwidth issue with the antenna, which makes it sensitive to tolerance, posing a challenge to its performance.
 
   <img src="https://github.com/user-attachments/assets/f9271082-8182-4960-ab4d-5f6c4cb0b28b" width="600" />
 
-- **Software Development**:  Researched further on real-time data display, Successfully used WebSockets with Blade, Implemented real-time dashboard, Conducted testing and debugging
-  
 ### **Week-8**
   31/03/2025
-- Sent antenna design for fabrication
-- Developed RFID list and detail pages
-- UI and RFID data testing in progress
+
+- **Communication**: Decided to use the MQTT protocol as the main communication line for sending data. Integrated the system with light control using an ESP32, enabling interconnection between the RFID system and light control functionality.
+
+- **Software Development**: Continued developing the real-time monitoring data transfer using the MQTT protocol, and worked on receiving data from the RFID Reader to ensure seamless data flow.
+
+- **Hardware Development**: Sent the finalized antenna design for fabrication, moving closer to the physical implementation phase.
 
 ### **Week-9**
   07/04/2025
-- Built location list and detail pages
-- System integration setup and Testing and debugging
-- Fabrication completed
+- **Communication**: Calibrated the program to limit the data rate, ensuring that the software can read all the data that has been sent.
+
+- **Software Development** : Continued developing the real-time monitoring dashboard and integrated it with the MQTT protocol to ensure seamless data transfer and monitoring.
+
+- **Hardware Development** : Completed the fabrication of the antenna.
 
   <img src="https://github.com/user-attachments/assets/03510e1e-b4ba-41c9-89c3-68c8e7a1b5ee" width="600" />
 
@@ -128,9 +136,22 @@ Software: Python,Laravel and MYSQL
 
 ### **Week-10**
   21/04/2025
-- End-to-end system testing and debugging
-- Antenna testing completed
-- Verified complete IoT pipeline
+- **Communication**: Set up the light control on ESP32 using MicroPython and encountered a new problem, where the reader detects data from only one antenna. Working on implementing antenna cycling to resolve this issue and enable detection from multiple antennas.
+
+- **Software Development**: Tested the entire system to ensure all components are properly connected and adjusted some features to enhance the overall functionality.
+
+- **Hardware Development** : Tested the antenna to verify its functionality and ensure it meets the necessary performance requirements.
+
+### **Week-11**
+  28/04/2025
+- **Communication**: Focused on fetching the program into the Raspberry Pi using crontab for automatic execution. Before proceeding, some setup steps were required, such as manually determining the IP address for the reader and installing necessary modules.
+
+- **Software Development**: The real-time monitoring service, which was running perfectly for some time, unexpectedly stopped. Currently troubleshooting the issue to determine the cause and implement a solution.
+
+
+### **Week-12**
+  05/05/2025
+- **Software Development**: Identified the cause of the problem and made necessary adjustments to the configurations to resolve the issue. Successfully performed the final run of the system, ensuring everything is functioning as expected.
 
 
 
