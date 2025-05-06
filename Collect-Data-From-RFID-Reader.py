@@ -7,8 +7,8 @@ from sllurp.llrp import LLRP_DEFAULT_PORT, LLRPReaderConfig, LLRPReaderClient
 # MQTT Broker Configuration
 broker = "202.44.44.233"
 port = 1883
-topic_1 = "rfid/ig"  # Main topic to publish data to
-topic_2 = "rfid/changingroom"  # Additional topic for antenna 2 (Room B)
+topic_1 = "rfid/topic1"  # Main topic to publish data to
+topic_2 = "rfid/topic2"  # Additional topic for antenna 2 (Room B)
 
 class ImpinjReader:
     def __init__(self, host, port=LLRP_DEFAULT_PORT):
