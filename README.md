@@ -47,7 +47,7 @@ Software: Python,Laravel and MYSQL
 - **General Works**: Defined the use cases, objectives, and features of the project. Also focused on learning the basics of the system to determine the system that we will use and ensure a solid foundation for the upcoming stages of development. The GitHub repository was prepared for structured reporting and documentation to track progress.
 - **Communication**: Tried to operate the RFID Reader to better understand how the RFID system works, gaining hands-on experience in the process.
 
-- **Software Development**: Conducted research on suitable software solutions for the user interface, ensuring that the system can be effectively utilized by users for easy interaction and inventory management., Created project repository, Built login and registration pages
+- **Software Development**: Conducted research on suitable software solutions for the user interface, ensuring that the system can be effectively utilized by users for easy interaction and inventory management , Created project repository, Built login and registration pages
 - **Hardware Development**: Studied various antenna types suitable for RFID applications. After evaluating their characteristics, the Truncated Patch Antenna was selected as the most suitable option due to its performance and compatibility with the project's requirements. Following this decision, the initial hardware development began in CST Studio.
   
   <img src="https://github.com/user-attachments/assets/c3532035-8ee2-40de-9180-7f3a9fdc7e1c" width="600" />
@@ -79,7 +79,7 @@ Software: Python,Laravel and MYSQL
  10/03/2025
 - **Communication**: Realized that sending data directly from the RFID Reader is not feasible due to subscription limitations. Considering an alternative approach to grab the data directly using Python, and consulting with experts to better understand how the reader works.
   
-- **Software Development**: Building the framework for the user interface using Laravel, which involves setting up the database and utilizing the interface to enable better user interaction.
+- **Software Development**: Attempted real-time display using WebSockets with Livewire (unsuccessful), Developed product detail page.
 
 - **Hardware Development**: Successfully achieved circular polarization, but facing an issue with a high axial ratio (AR > 3 dB), which needs to be addressed.
 
@@ -93,8 +93,7 @@ Software: Python,Laravel and MYSQL
 
 - **Communication**: Focused on writing Python code to grab data from the RFID Reader and working on controlling the data rate coming from the reader to optimize performance.
 
-- **Software Development**: Continued developing the user interface, making progress toward completing a functional and user-friendly interface.
-
+- **Software Development**: Switched from API to Laravel Job for automated data saving.
 - **Hardware Development**: Optimized the antenna design, achieving a more favorable axial ratio (AR) of 2.1, improving performance.
 
   <img src="https://github.com/user-attachments/assets/d66acfc5-d1e6-4ad2-a856-50bfea81a6e6" width="600" />
@@ -106,15 +105,18 @@ Software: Python,Laravel and MYSQL
 
   <img src="https://github.com/user-attachments/assets/f9271082-8182-4960-ab4d-5f6c4cb0b28b" width="600" />
 
-- Continued database reprogramming for use-case fit
-
+- **Software Development**:  Researched further on real-time data display, Successfully used WebSockets with Blade, Implemented real-time dashboard, Conducted testing and debugging
+  
 ### **Week-8**
   31/03/2025
-- Sent antenna design for fabrication  
+- Sent antenna design for fabrication
+- Developed RFID list and detail pages
 - UI and RFID data testing in progress
 
 ### **Week-9**
   07/04/2025
+- Built location list and detail pages
+- System integration setup and Testing and debugging
 - Fabrication completed
 
   <img src="https://github.com/user-attachments/assets/03510e1e-b4ba-41c9-89c3-68c8e7a1b5ee" width="600" />
@@ -124,11 +126,9 @@ Software: Python,Laravel and MYSQL
   <img src="https://github.com/user-attachments/assets/6da8ee50-af40-44b0-931e-6eb734eb9753" width="600" />
   
 
-- System integration setup
-
 ### **Week-10**
   21/04/2025
-- End-to-end system test with cloud and reader
+- End-to-end system testing and debugging
 - Antenna testing completed
 - Verified complete IoT pipeline
 
