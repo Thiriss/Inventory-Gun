@@ -115,7 +115,7 @@ Software: Python,Laravel and MYSQL
 
 - **Communication**: Decided to use the MQTT protocol as the main communication line for sending data. Integrated the system with light control using an ESP32, enabling interconnection between the RFID system and light control functionality.
 
-- **Software Development**: Continued developing the real-time monitoring data transfer using the MQTT protocol, and worked on receiving data from the RFID Reader to ensure seamless data flow.
+- **Software Development**: Continued developing the real-time monitoring data transfer using the MQTT protocol, and worked on receiving data from the RFID Reader to ensure seamless data flow, Developed RFID list and detail pages.
 
 - **Hardware Development**: Sent the finalized antenna design for fabrication, moving closer to the physical implementation phase.
 
@@ -123,7 +123,7 @@ Software: Python,Laravel and MYSQL
   07/04/2025
 - **Communication**: Calibrated the program to limit the data rate, ensuring that the software can read all the data that has been sent.
 
-- **Software Development** : Continued developing the real-time monitoring dashboard and integrated it with the MQTT protocol to ensure seamless data transfer and monitoring.
+- **Software Development** : Continued developing the real-time monitoring dashboard and integrated it with the MQTT protocol to ensure seamless data transfer and monitoring, Built location list and detail pages.
 
 - **Hardware Development** : Completed the fabrication of the antenna.
 
