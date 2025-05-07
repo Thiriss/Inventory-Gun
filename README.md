@@ -153,5 +153,73 @@ Software: Python,Laravel and MYSQL
   05/05/2025
 - **Software Development**: Identified the cause of the problem and made necessary adjustments to the configurations to resolve the issue. Successfully performed the final run of the system, ensuring everything is functioning as expected.
 
+### **Website Features**
 
+Login 
+
+<img src="https://github.com/user-attachments/assets/caab6aa9-1d4c-43be-a242-7ca3bd6d0dd4" width="600" />
+
+Registration 
+
+<img src="https://github.com/user-attachments/assets/413c9e00-d21e-4e3b-abbe-2eec6f9c400e" width="600" />
+
+Forgot Password
+
+<img src="https://github.com/user-attachments/assets/34140c38-0e8f-48a9-a653-664dc67b494d" width="600" />
+
+Dashboard
+
+<img src="https://github.com/user-attachments/assets/22737872-259a-4c7f-b308-d0f45caef4b7" width="600" />
+
+RFID details with product assigned
+
+<img src="https://github.com/user-attachments/assets/dcd539bc-1938-423d-97bc-4239affc61dd" width="600" />
+
+RFID details without product assigned
+
+<img src="https://github.com/user-attachments/assets/65289827-70f8-4bde-9506-ac2d72afb709" width="600" />
+
+Edit RFID
+
+<img src="https://github.com/user-attachments/assets/ca1e0b17-eed0-4cd8-905a-0fe1de13c460" width="600" />
+
+Product List
+
+<img src="https://github.com/user-attachments/assets/52f7ecdc-4799-47c5-a596-48f4ee6a6ba3" width="600" />
+
+Add Product
+
+<img src="https://github.com/user-attachments/assets/e9d583cd-04e7-4182-a078-712b4f8a4766" width="600" />
+
+Edit Product
+
+<img src="https://github.com/user-attachments/assets/a5ecd02b-45cf-48b8-aa2f-a8c527c626a8" width="600" />
+
+Product Details
+
+<img src="https://github.com/user-attachments/assets/a98d44fb-25f3-4574-9879-596966e43eff" width="600" />
+
+RFID List
+
+<img src="https://github.com/user-attachments/assets/754c228f-6fbb-4a44-b9f8-98f2d958cc2c" width="600" />
+
+Add RFID
+
+<img src="https://github.com/user-attachments/assets/d1e2915a-8147-43ab-8b5a-b2a4dbccf708" width="600" />
+
+Location List
+
+<img src="https://github.com/user-attachments/assets/41ed921d-299c-4eb5-b60a-66e19d60ee8f" width="600" />
+
+Location Details
+
+<img src="https://github.com/user-attachments/assets/c0f19c43-2b9f-4c4e-a519-d53edbe9d4f4" width="600" />
+
+Edit Admin Profile
+
+<img src="https://github.com/user-attachments/assets/593d60a0-a20d-4f6d-a974-242ce75a0fe9" width="600" />
+
+Change Password
+
+<img src="https://github.com/user-attachments/assets/25b24e4e-8b2d-4ea7-8de0-526d8874d751" width="600" />
 
